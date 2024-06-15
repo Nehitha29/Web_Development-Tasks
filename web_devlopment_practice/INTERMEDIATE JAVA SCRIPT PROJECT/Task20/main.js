@@ -1,6 +1,6 @@
 // Foursquare API Info
-const clientId = 'ZA3KTWSTRCLLQ5U03IR4GLZSBML51U3GDUDQVLXTEZ2OONEL';
-const clientSecret = 'NVEAUUSYPDCVS5LY4Y4HUMCJAL2SCQIFNRIYGHCUGCCOD02W';
+//const clientId = '';
+//const clientSecret = '';
 const url = 'https://api.foursquare.com/v3/places/search';
 
 // OpenWeather Info
